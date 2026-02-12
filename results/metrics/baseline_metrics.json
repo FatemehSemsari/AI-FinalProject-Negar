@@ -1,0 +1,24 @@
+{
+  "model": "RandomForestClassifier",
+  "split": "test",
+  "params": {
+    "n_estimators": 200,
+    "random_state": 42,
+    "class_weight": "balanced"
+  },
+  "accuracy": 0.8841719077568134,
+  "precision": 0.99375,
+  "recall": 0.7456037514654161,
+  "f1": 0.8519758874748827,
+  "roc_auc": 0.8782940611057711,
+  "confusion_matrix": [
+    [
+      1051,
+      4
+    ],
+    [
+      217,
+      636
+    ]
+  ]
+}
