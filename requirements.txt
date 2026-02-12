@@ -4,3 +4,4 @@ matplotlib
 seaborn
 jupyter
 ipykernel
+scikit-learn>=1.0
