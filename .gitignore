@@ -2,7 +2,7 @@
 data/raw/
 
 # ===== Models & weights =====
-models/
+#models/
 *.pt
 *.pth
 *.h5
