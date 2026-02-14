@@ -48,7 +48,13 @@ def main():
         verbose=False
     )
 
-   
+    from src.utils.paths import MODELS_DIR
+    from src.utils.io import save_model
+
+    model_path = MODELS_DIR / f"{EXPERIMENT_NAME}.joblib"
+    save_model(model, model_path)
+    print("Saved model to:", model_path)
+
 
     # Validation evaluation
     y_pred_val = model.predict(X_val)

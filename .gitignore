@@ -2,12 +2,10 @@
 data/raw/
 
 # ===== Models & weights =====
-#models/
-*.pt
-*.pth
-*.h5
-*.pkl
+trained_model/
 *.joblib
+*.pkl
+
 
 # ===== Virtual environments =====
 .venv/
