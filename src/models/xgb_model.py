@@ -24,13 +24,12 @@ def xgb_v1_fe_tuned():
         subsample=0.85,
         colsample_bytree=0.85,
         reg_lambda=2.5,
-       reg_alpha=0.5,
+        reg_alpha=0.5,
         random_state=42,
-        gamma= 0.2,
+        gamma= 0,
         eval_metric="logloss",
         tree_method="hist",
         colsample_bylevel=1,
-        min_child_weight=2,
-    
+        min_child_weight=1,   
     )
     return model
