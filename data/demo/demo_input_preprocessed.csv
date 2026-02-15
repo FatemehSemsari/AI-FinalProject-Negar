@@ -1,0 +1,4 @@
+network_packet_size,login_attempts,session_duration,ip_reputation_score,failed_logins,unusual_time_access,protocol_type_ICMP,protocol_type_TCP,protocol_type_UDP,browser_type_Chrome,browser_type_Edge,browser_type_Firefox,browser_type_Safari,browser_type_Unknown,encryption_used_AES,encryption_used_DES,encryption_used_None
+-0.09701492537313433,-0.5,1.1519953154150666,-0.04765418736046788,-1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+1.1417910447761195,0.0,0.05743263825376808,-0.7248496808001139,-1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+-0.16791044776119404,0.5,-0.19514642828695797,0.4063316182973954,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0

@@ -1,0 +1,4 @@
+network_packet_size,protocol_type,login_attempts,session_duration,encryption_used,ip_reputation_score,failed_logins,browser_type,unusual_time_access
+472,TCP,3,1557.996,DES,0.302,0,Firefox,0
+804,UDP,4,601.249,None,0.123,0,Unknown,0
+453,UDP,5,380.472,AES,0.422,2,Chrome,1
